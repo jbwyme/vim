@@ -1,1 +1,2 @@
-# vim
+# Deps
+`brew install fzf ag`
