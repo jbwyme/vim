@@ -61,7 +61,6 @@ noremap <leader>g :Ag! <cword><cr>
 noremap <leader>f :Ag<cr>
 noremap <leader>l :GFiles?<cr>
 noremap <leader><leader>f :Fixmyjs<cr>
-noremap <leader><leader>l :<cr>
 set mouse=a
 
 highlight OverLength ctermbg=blue ctermfg=white guibg=#592929 
